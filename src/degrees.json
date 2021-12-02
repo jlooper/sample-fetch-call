@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "degrees": {
+        "bachelors": {
+          "data": {
+            "type": "Bachelors of Arts in French",
+            "institution": "Wellesley College",
+            "date": "1992"
+          }
+        }
+      }
+    }
+  ]
+}
